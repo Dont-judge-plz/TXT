@@ -1,0 +1,7 @@
+1) Terminal
+2) Git
+3) Postman
+4) JS
+5) DevTools
+6) Jmeter
+7) Charles
